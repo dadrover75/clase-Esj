@@ -24,7 +24,7 @@ const menu = [{
     name: 'Espárragos blancos',
     description: 'Espárragos blancos con vinagreta de verduras y jamón ibérico',
     price: '27.50',
-    picture: ' /images/esparragos.jpg'
+    picture: ' /images/esparragos.png'
 },
 {
     id: 9,
